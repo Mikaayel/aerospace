@@ -202,3 +202,7 @@ alt-shift-h = ['join-with left', 'mode main']
 alt-shift-j = ['join-with down', 'mode main']
 alt-shift-k = ['join-with up', 'mode main']
 alt-shift-l = ['join-with right', 'mode main']
+
+[workspace-to-monitor-force-assignment]
+1 = ['main', 'Dell U4919DW']                       # Main monitor
+4 = ['secondary', 'ROG PG348Q']                  # Non-main monitor in case when there are only two monitorsev
